@@ -1,0 +1,45 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directory (Common names)
+venv/
+.venv/
+env/
+.env/
+*_env/
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Output files (Adjust based on your actual outputs you don't want to track)
+# /output/ # Maybe keep example output? Or ignore all generated data.
+*.pth
+*.png
+*.csv # Careful: Don't ignore intended data input files like data.xlsx if manually added
+*.log
+*.txt # Careful: Don't ignore requirements.txt, model_report.txt etc. if needed.
+# Consider ignoring specific output files instead of broad patterns:
+# best_model.pth
+# prediction.png
+# predictions.csv
+# model_report.txt
+# training_log.txt
+# output/synthetic_dataset.csv
+# output/optimized_parameters.csv
+
+# Sensitive files (Should not exist, but as a safeguard)
+# data.xlsx # Crucially important if it contains real data!
+# A.xlsx
+# B.xlsx
+
+# OS generated files
+.DS_Store
+Thumbs.db

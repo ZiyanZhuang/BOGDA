@@ -1,0 +1,30 @@
+# CITATION.cff
+# This file provides citation information for the BOGDA software.
+# Please cite this software if you use it in your research.
+
+cff-version: 1.2.0
+message: "If you use BOGDA in your research, please cite it using the following metadata."
+title: "BOGDA: A Deep Learning Framework for Pest Resistance Prediction"
+authors:
+  - family-names: "Zhuang"
+    given-names: "Ziyan"
+    # orcid: "https://orcid.org/0009-0007-3915-1614"
+  - family-names: "Sheng"
+    given-names: "Qiao"
+  - family-names: "Xie"
+    given-names: "Jingang"
+    # orcid: "https://orcid.org/0009-0007-6493-6667"
+
+version: "1.0.0" 
+date-released: 2025-04-20 
+repository-code: "https://github.com/ZiyanZhuang/pest-resistance-prediction"
+license: MIT
+keywords:
+  - "pest resistance"
+  - "prediction"
+  - "deep learning"
+  - "temporal convolutional network"
+  - "attention mechanism"
+  - "bioassay"
+  - "LC50"
+type: software

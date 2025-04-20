@@ -1,0 +1,12 @@
+## Requirements
+
+pandas
+numpy
+scipy
+scikit-learn
+torch 
+matplotlib
+openpyxl
+seaborn
+
+## Please ensure these libraries are installed. 
