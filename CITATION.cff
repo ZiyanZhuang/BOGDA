@@ -17,7 +17,7 @@ authors:
 
 version: "1.0.0" 
 date-released: 2025-04-20 
-repository-code: "https://github.com/ZiyanZhuang/pest-resistance-prediction"
+repository-code: "https://github.com/ZiyanZhuang/BOGDA"
 license: MIT
 keywords:
   - "pest resistance"
